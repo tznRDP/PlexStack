@@ -1,7 +1,7 @@
 metadata:
   82506: # TVDB id for Beck.
     url_poster: https://raw.githubusercontent.com/tznRDP/KomStack/main/Kometa/Metadata/Poster/Beck/Beck_Poster.png
-#    url_background: https://raw.githubusercontent.com/tznRDP/KomStack/main/Kometa/Metadata/Background/Beck/Beck_BG.png
+    url_background: https://raw.githubusercontent.com/tznRDP/KomStack/main/Kometa/Metadata/Background/Beck/Beck_BG.png
     seasons:
       1:
         episodes:
